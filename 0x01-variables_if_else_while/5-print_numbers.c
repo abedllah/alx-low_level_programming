@@ -10,8 +10,8 @@ int main(void)
 
 	for (n = 0; n <= 9; n++)
 	{
-		prinf("%d", n)
+		printf("%d", n);
 	}
-	prinf("\n")
-		return (0);
+	printf("\n");
+	return (0);
 }

@@ -15,7 +15,7 @@ int main(void)
 	}
 	for (m = 97; m <= 102; m++)
 	{
-		pitchar(m);
+		putchar(m);
 	}
 	putchar('\n');
 	return (0);
